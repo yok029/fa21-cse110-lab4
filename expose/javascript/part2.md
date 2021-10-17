@@ -30,4 +30,4 @@
     F false
 15. == compares just the variables itself but ignores the data types. === compare the variables and their datatypes as well. 
 17. The returned array will be [2,4,6]. Each element in the array is passed into the dosomething function, which gets doubled and returned then pushedback to the new array.
-18. 1, 4, 3 get printed then 2 gets printed 
+19. 1, 4, 3 get printed then 2 gets printed 
